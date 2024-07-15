@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spyinx
-- 👀 I’m interested in redis、leveldb、rocksdb、kvrocks、pikiwidb and ceph
-- 🌱 I’m currently learning distributed key value NoSQL database
+- 👀 I’m interested in ansible、redis、leveldb、rocksdb and ceph
+- 🌱 I’m currently learning distributed storage system 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: qicai
